@@ -184,6 +184,10 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
+	.profile-picture {
+		object-fit: cover;
+	}
+
 	.technologies-container {
 		display: flex;
 		flex-wrap: wrap;
